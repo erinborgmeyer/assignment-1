@@ -50,14 +50,14 @@ header {
     
     background-color: black;
     background-image: url(../images/under_water.jpg);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: 40rem;
     background-position:center center;
     
     box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
     
-    border: solid .35rem rgba(255, 215, 0, .0);
-    border-radius: 1.25rem;
+    border: solid 5rem rgba(255, 215, 0, .0);
+   
 }
 
 h1 {
