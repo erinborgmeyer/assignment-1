@@ -45,15 +45,19 @@ header {
 }
 
 .billboard {
-overflow: hidden;
-background-image:url(../images/under_water.jpg);
-background-color: white;
-background-repeat:repeat;
-background-position:center, center;
-background-size:70rem;
-height: 30rem;
-border-radius:.2rem;
-margin: 0;
+  margin: 0 5% 3rem;
+    overflow: hidden;
+    
+    background-color: black;
+    background-image: url(../images/under_water.jpg);
+    background-repeat: repeat;
+    background-size: 40rem;
+    background-position:center center;
+    
+    box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
+    
+    border: solid .35rem rgba(255, 215, 0, .0);
+    border-radius: 1.25rem;
 }
 
 h1 {
