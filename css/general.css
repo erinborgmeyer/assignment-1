@@ -73,7 +73,7 @@ p {
 
 figure {
     width: 100%
-    padding:.5rem;
+    padding:.5 .5 .5rem;
 }
 
 article {
@@ -95,7 +95,7 @@ figcaption {
 
 h2 {
     font-weight: normal;
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-transform: uppercase;
     line-height: .5rem;
     padding: 1.5rem;
