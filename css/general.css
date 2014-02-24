@@ -49,8 +49,7 @@ header {
     background-image: url(../images/under_water.jpg);
     background-repeat: repeat;
     background-size: 
-    background-position:center;
-    border-radius: 1.25rem;
+    background-position: center;
     background-color: black;
     
     box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
