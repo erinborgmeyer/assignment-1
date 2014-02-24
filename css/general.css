@@ -49,8 +49,8 @@ header {
     background-color: yellow;
     background-repeat: no-repeat; 
     background-position: center center;
-    background-image: url(../images/under_water.jpg);
-    background-image: 100%;
+    background-image: url(../images/surf_scene.jpg);
+    background-size: 100%;
     height: 12rem;
 }
 
