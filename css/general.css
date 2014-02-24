@@ -48,17 +48,18 @@ header {
     background-image: url(../images/surf_scene);
     background-repeat: no-repeat; 
     background-position: center;
-    background-color: white;
+    background-color: yellow;
 }
 
 h1 {
     font-weight: lighter;
     font-family: helvetica;
     font-size: .5rem;
-    color:yellow;
+    color:black;
     text-transform: uppercase;
     letter-spacing: .5rem;
-    margin: 5rem 0;    
+    margin: 5rem 0;
+    padding: 1.5rem;
 }
 
 p {
