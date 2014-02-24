@@ -38,7 +38,7 @@ header {
 }
 
 .logo {
-    height: 8rem;
+    height: 6rem;
     width: auto;
     padding: .5rem;
 }
@@ -48,7 +48,7 @@ header {
     overflow: hidden;
     background-image: url(../images/under_water.jpg);
     background-repeat: repeat;
-    background-size: 40rem;
+    background-size: 
     background-position:center;
     border-radius: 1.25rem;
     background-color: black;
