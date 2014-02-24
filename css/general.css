@@ -48,9 +48,9 @@ header {
   margin: 0 5% 3rem;
     overflow: hidden;
     background-image: url(../images/under_water.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 40rem;
-    background-position:center center;
+    background-position:center;
     border-radius: 1.25rem;
     
     box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
@@ -62,7 +62,7 @@ header {
 h1 {
     font-weight: lighter;
     font-family: helvetica;
-    font-size: 3.25rem;
+    font-size: 2rem;
     color:yellow;
     text-transform: uppercase;
     letter-spacing: .75rem;
