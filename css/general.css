@@ -47,11 +47,11 @@ header {
 .billboard {
   margin: 0 5% 3rem;
     overflow: hidden;
-    
     background-image: url(../images/under_water.jpg);
     background-repeat: no-repeat;
     background-size: 40rem;
     background-position:center center;
+    border-radius: 1.25rem;
     
     box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
     
