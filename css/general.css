@@ -44,21 +44,21 @@ header {
     padding: .5rem;
 }
 
-.enterprise {
+.billboard {
     overflow: hidden;
     background-repeat: no-repeat; 
     background-position: center;
     background-image: url(../images/under_water.jpg);
     background-color: yellow;
     background-size: 100%;
-    height: 20rem;
+    height: 12rem;
 }
 
 h1 {
     font-weight: lighter;
     font-family: helvetica;
     font-size: .75rem;
-    color:black;
+    color:blue;
     text-transform: uppercase;
     letter-spacing: .5rem;
     margin: 5rem 0;
