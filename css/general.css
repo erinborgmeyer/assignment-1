@@ -87,10 +87,6 @@ article p:first-child {
     padding: 1.5rem;
 }
 
-article p: third-child {
-    font-size: .75rem;
-}
-
 figcaption {
     font-size:.75rem;
 }
