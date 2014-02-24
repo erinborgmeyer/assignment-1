@@ -37,14 +37,13 @@ header {
     background-color: black;
 }
 
-logo {
+.logo {
     height: 6rem;
     width: auto;
     padding: .5rem;
 }
 
-billboard {
-  margin: 0 5% 3rem;
+.billboard {
     overflow: hidden;
     background-image: url(../images/under_water.jpg);
     background-repeat: repeat; 
