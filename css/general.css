@@ -62,10 +62,10 @@ header {
 h1 {
     font-weight: lighter;
     font-family: helvetica;
-    font-size: 1rem;
+    font-size: .5rem;
     color:yellow;
     text-transform: uppercase;
-    letter-spacing: 1rem;
+    letter-spacing: .5rem;
     margin: 5rem 0;    
 }
 
