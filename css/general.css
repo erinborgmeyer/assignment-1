@@ -37,13 +37,13 @@ header {
     background-color: black;
 }
 
-.logo {
+logo {
     height: 6rem;
     width: auto;
     padding: .5rem;
 }
 
-.billboard {
+billboard {
   margin: 0 5% 3rem;
     overflow: hidden;
     background-image: url(../images/under_water.jpg);
@@ -90,10 +90,10 @@ article p:first-child {
     line-height: .5rem;
     margin: .75rem 0 1rem;
     padding: 1.5rem;
+}
 
 figcaption {
-    font-size: .75rem;
-    
+    font-size:.75rem;
 }
 
 h2 {
