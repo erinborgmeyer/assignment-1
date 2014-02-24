@@ -65,7 +65,7 @@ h1 {
 
 p {
     line-height: 1.5rem;
-    padding: 1rem;
+    padding: 1.5rem;
 
 }
 
@@ -76,7 +76,7 @@ figure {
 
 article {
     margin: 0;
-    padding 1.5rem 5%;
+    padding 1.5rem;
     overflow: hidden;
 }
 
@@ -85,6 +85,10 @@ article p:first-child {
     text-transform: uppercase;
     line-height: .2rem;
     padding: 1.5rem;
+}
+
+article p: third-child {
+    font-size: .75rem;
 }
 
 figcaption {
@@ -96,7 +100,7 @@ h2 {
     font-size: 1.5rem;
     text-transform: uppercase;
     line-height: .5rem;
-    padding: 1rem;
+    padding: 1.5rem;
 }
 
 footer {
