@@ -40,7 +40,6 @@ header {
 .logo {
     height: 8rem;
     width: auto;
-    background-color: black;
     padding: .5rem;
 }
 
@@ -66,10 +65,8 @@ h1 {
     font-size: 1rem;
     color:yellow;
     text-transform: uppercase;
-    letter-spacing: .75rem;
-    margin: 5rem 0;
-   
-    
+    letter-spacing: 1rem;
+    margin: 5rem 0;    
 }
 
 p {
