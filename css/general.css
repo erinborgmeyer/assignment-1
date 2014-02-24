@@ -62,7 +62,7 @@ header {
 h1 {
     font-weight: lighter;
     font-family: helvetica;
-    font-size: 2rem;
+    font-size: 1rem;
     color:yellow;
     text-transform: uppercase;
     letter-spacing: .75rem;
@@ -89,7 +89,7 @@ article {
 }
 
 article p:first-child {
-    font-size: 4rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
     line-height: .5rem;
     margin: .75rem 0 1rem;
@@ -98,7 +98,7 @@ article p:first-child {
 
 h2 {
     font-weight: normal;
-    font-size: 4rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
     margin: .75rem 0 1rem;
     line-height: .5rem;
