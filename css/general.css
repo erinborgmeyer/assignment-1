@@ -58,7 +58,7 @@ h1 {
     font-weight: lighter;
     font-family: helvetica;
     font-size: .5rem;
-    color:black;
+    color:yellow;
     text-transform: uppercase;
     letter-spacing: .5rem;
     margin: 4rem 0;
@@ -80,6 +80,7 @@ article {
     margin: 0;
     padding 1.5rem;
     overflow: hidden;
+    background-color: grey;
 }
 
 article p:first-child {
@@ -103,7 +104,8 @@ h2 {
     
 ul {
     font-size: .75rem;
-    padding: 3rem;
+    padding:1.5rem;
+    line-height:1.5rem;
 }
 
 footer {
