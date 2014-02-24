@@ -90,7 +90,7 @@ article p:first-child {
 }
 
 figcaption {
-    font-size:.75rem;
+    font-size:.5rem;
 }
 
 h2 {
@@ -103,13 +103,13 @@ h2 {
     
 ul {
     font-size: .75rem;
-    padding: 4rem;
+    padding: 3rem;
 }
 
 footer {
     background-color: black;
     overflow: hidden;
-    height: 7rem;
+    height: 5rem;
 }
 
 footer p {
