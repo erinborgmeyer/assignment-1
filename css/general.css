@@ -49,10 +49,6 @@ header {
     background-repeat: no-repeat; 
     background-position: center;
     background-color: white;
-    
-    box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
-    
-    border: solid 5rem rgba(255, 215, 0, .0);
 }
 
 h1 {
