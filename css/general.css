@@ -45,10 +45,10 @@ header {
 
 .billboard {
     overflow: hidden;
-    background-image: url(../images/surf_scene);
     background-repeat: no-repeat; 
     background-position: center;
     background-color: yellow;
+    height: 9rem;
 }
 
 h1 {
