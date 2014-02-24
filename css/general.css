@@ -46,7 +46,6 @@ header {
 
 .billboard {
   margin: 0 5% 3rem;
-    overflow: hidden;
     background-image: url(../images/under_water.jpg);
     background-repeat: repeat;
     background-size: 40rem;
