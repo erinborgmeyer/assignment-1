@@ -98,6 +98,10 @@ h2 {
     line-height: .5rem;
     padding: 1.5rem;
 }
+    
+ul {
+    font-size: .75rem;    
+}
 
 footer {
     background-color: black;
