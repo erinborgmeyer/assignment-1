@@ -45,15 +45,14 @@ header {
 
 .billboard {
     overflow: hidden;
-    background-image: url(../images/under_water.jpg);
-    background-repeat: repeat; 
+    background-image: url(../images/surf_scene);
+    background-repeat: no-repeat; 
     background-position: center;
-    background-color: black;
+    background-color: white;
     
     box-shadow: .2rem .4rem .4rem .2rem rgba(0, 0, 0, .4);
     
     border: solid 5rem rgba(255, 215, 0, .0);
-   
 }
 
 h1 {
